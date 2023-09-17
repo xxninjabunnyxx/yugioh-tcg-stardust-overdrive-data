@@ -1,0 +1,24 @@
+---
+id: 82878489
+name: Shine Palace
+type: Spell Card
+frameType: spell
+desc: Equip only to a LIGHT monster. It gains 700 ATK.
+race: Equip
+card_sets:
+- set_name: Stardust Overdrive
+  set_code: SOVR-EN091
+  set_rarity: Rare
+  set_rarity_code: "(R)"
+  set_price: '3.24'
+card_images:
+- id: 82878489
+  image_url: https://images.ygoprodeck.com/images/cards/82878489.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/82878489.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/82878489.jpg
+card_prices:
+- cardmarket_price: '0.25'
+  tcgplayer_price: '0.56'
+  ebay_price: '1.46'
+  amazon_price: '0.89'
+  coolstuffinc_price: '0.99'

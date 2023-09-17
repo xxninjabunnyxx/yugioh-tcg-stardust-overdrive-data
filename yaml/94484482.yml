@@ -1,0 +1,31 @@
+---
+id: 94484482
+name: Slip Summon
+type: Trap Card
+frameType: trap
+desc: Activate only when your opponent Summons a monster. Special Summon 1 Level 4
+  or lower monster from your hand in face-up Defense Position. Return it to the owner's
+  hand during the End Phase.
+race: Normal
+card_sets:
+- set_name: 'Duelist Pack: Yusei 2'
+  set_code: DP09-EN028
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.01'
+- set_name: Stardust Overdrive
+  set_code: SOVR-EN063
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.45'
+card_images:
+- id: 94484482
+  image_url: https://images.ygoprodeck.com/images/cards/94484482.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/94484482.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/94484482.jpg
+card_prices:
+- cardmarket_price: '0.06'
+  tcgplayer_price: '0.10'
+  ebay_price: '0.99'
+  amazon_price: '0.20'
+  coolstuffinc_price: '0.49'
